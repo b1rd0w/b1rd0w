@@ -36,10 +36,10 @@
   <br/>
 </h2>
 
-<div id="user-content-toc" align="center">
+<div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
-      <h2>🗂️ My projects</h2>
+      <h2>🗂️ Pinned projects</h2>
     </summary>
   </ul>
 </div>
