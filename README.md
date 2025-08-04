@@ -2,6 +2,7 @@
 <h2>
 
 ![header](https://i.imgur.com/crBjV1P.png)
+
 </h2>
 
 <div id="toc" align="center">
@@ -28,8 +29,8 @@
 </div>
 <h2 align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=b1rd0w&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide=stars,issues&theme=transparent&border_color=0e1117" alt="Github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1rd0w&layout=compact&count_private=true&theme=transparent&border_color=0e1117" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1rd0w&layout=compact&count_private=true&theme=default&bg_color=0000&border_color=3d444d&&text_color=9198a1&icon_color=9198a1&title-color=4493f8&border_radius=8&disable_animations=true&card_width=400" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=b1rd0w&show_icons=true&custom_title=Statistics&rank_icon=github&count_private=true&include_all_commits=true&text_bold=false&hide=stars,issues&theme=default&bg_color=0000&border_color=3d444d&&text_color=9198a1&icon_color=9198a1&title-color=4493f8&border_radius=8&disable_animations=true&card_width=400&line_height=24&hide_rank=true" alt="Github statistics" />
   </a>
   <br/>
   <br/>
@@ -38,7 +39,11 @@
 <div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
-      <h2>🗂️ Pinned projects</h2>
+      <h2>🗂️ Pinned Projects</h2>
     </summary>
   </ul>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1rd0w&repo=BIgraph&theme=default&bg_color=0000&border_color=3d444d&&text_color=9198a1&icon_color=9198a1&title-color=4493f8&border_radius=8&description_lines_count=1" alt="BIgraph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1rd0w&repo=ARmoney&theme=default&bg_color=0000&border_color=3d444d&&text_color=9198a1&icon_color=9198a1&title-color=4493f8&border_radius=8&description_lines_count=1" alt="ARmoney">
+  </a>
 </div>
